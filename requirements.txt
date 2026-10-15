@@ -1,0 +1,5 @@
+# Running GaitCam from source (ffmpeg and ffprobe must also be on PATH).
+# The Windows bundle pins the same versions: see build/build_windows.sh.
+PySide6-Essentials>=6.8,<6.9
+numpy>=1.26,<2.3
+opencv-python-headless>=4.7,<4.11

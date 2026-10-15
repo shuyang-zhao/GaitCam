@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use GaitCam in your research, please cite it as below."
+title: "GaitCam: a high-speed gait video recorder for UVC cameras"
+type: software
+authors:
+  - given-names: Shuyang
+    family-names: Zhao
+version: 1.1.0
+license: MIT
+repository-code: "https://github.com/shuyang-zhao/GaitCam"
+keywords:
+  - gait analysis
+  - mouse behavior
+  - high-speed video
+  - UVC camera

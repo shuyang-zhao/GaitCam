@@ -1,0 +1,17 @@
+# environments and build outputs (the Windows zip goes to GitHub Releases)
+.env-dev/
+build/cache/
+build/dist/
+__pycache__/
+*.pyc
+
+# recordings and local test output
+real_test/
+*.mkv
+*.part.mkv
+build/test/*.png
+build/test/*.jpg
+*.log
+
+# local backups
+.backup/
